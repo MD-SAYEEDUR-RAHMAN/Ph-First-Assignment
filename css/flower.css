@@ -141,6 +141,10 @@ align-items: center;
     width: 180px;
     margin: 128px 870px 0px 870px;
 }
+.trd-sec{
+    width: 1920px;
+    height: 720px;
+}
 .trd-dsc{
     color: rgba(39, 39, 39, 0.60);
     text-align: center;

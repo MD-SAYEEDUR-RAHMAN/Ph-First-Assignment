@@ -153,7 +153,7 @@ align-items: center;
 }
 .bonus{
     width: 1920px;
-    height: 720px;
+    height: 820px;
 }
 .common{
     display: flex;
@@ -162,6 +162,11 @@ align-items: center;
     width: 342px;
     height: 396px;
     flex-shrink: 0;
+}
+.common-pink{
+    display: flex;
+    gap: 390px;
+    padding: 100px 50px 180px 390px;
 }
 .four-bg-pic1{
     width: 464px;

@@ -128,6 +128,81 @@ align-items: center;
     margin: 0px 0px 162px 601px;
     
 }
+/*for bonus*/
+.bonus-title{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 580px;
+    margin: 128px 700px 0px 700px;
+}
+.bonus-desc{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    width: 594px;
+    margin: 20px 663px 43px 663px;
+}
+.bonus{
+    width: 1920px;
+    height: 720px;
+}
+.common{
+    display: flex;
+    gap: 24px;
+    margin: 48px 240px;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+}
+.four-bg-pic1{
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.pic1{
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    padding: 110px 78px 0px 76px;
+}
+.four-bg-pic2{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+}
+.pic2{
+    width: 370px;
+    height: 370px;
+    flex-shrink: 0;
+    padding: 117px 47px 51px 47px;
+}
+.four-bg-pic3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
+    flex-shrink: 0;
+
+}
+.pic3{
+    width: 314px;
+    height: 471px;
+    flex-shrink: 0;
+    padding: 67px 75px 0px 75px;
+}
 /*section-third*/
 
 .trd-title{
